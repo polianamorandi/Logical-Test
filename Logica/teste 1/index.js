@@ -11,4 +11,5 @@ function imprimeNum(num){
             }      
         }else{console.log(num)}
     }
-}let res = imprimeNum()
+}
+imprimeNum()

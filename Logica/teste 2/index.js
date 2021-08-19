@@ -1,5 +1,5 @@
 function somaDeQuadrado(vet) {
-    var vet = [3, 6, 9, 12, 15, 20];
+    var vet = [1, 2, 3, 4, 5, 6];
     var soma = 0;
 
     console.log('Valores a serem somados: '+ vet)
@@ -8,4 +8,5 @@ function somaDeQuadrado(vet) {
         soma += vet[i]
     }
     console.log('Soma:' + soma)
-} let res = somaDeQuadrado()
+} 
+somaDeQuadrado()

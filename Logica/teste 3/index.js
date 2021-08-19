@@ -13,4 +13,5 @@ function fibonacci(valor) {
         atual = proximo
         proximo = anterior
     }
-} fibonacci(1000)
+} 
+fibonacci(1000)
